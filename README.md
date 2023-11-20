@@ -1,2 +1,2 @@
-# SMOTE
-SMOTE based Class imbalance handling
+# SMOT
+SMOT based Class imbalance handling

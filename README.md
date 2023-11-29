@@ -1,4 +1,4 @@
-** SMOT  **
+**SMOT**
 
 
 1. SMOT is a synthetic minority oversampling technique.
